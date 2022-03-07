@@ -11,4 +11,4 @@ Thief is a project in which a character walks around a level to collect items wh
 
 Catiator is a project in which four players battle each other. 
 
-DRI-VR is a VR project in which the player gets to see a 3D video in which they have to point at certain directions. 
+DRI-VR is a VR project during which the player gets to see a 3D video in which they have to point at certain directions. 
